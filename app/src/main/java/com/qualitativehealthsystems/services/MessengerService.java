@@ -12,8 +12,8 @@ import android.os.Messenger;
 import android.os.RemoteException;
 import android.widget.Toast;
 
-import com.paynesoftware.qualitativehealthsystems.MainActivity;
-import com.paynesoftware.qualitativehealthsystems.R;
+import com.qualitativehealthsystems.activities.MainActivity;
+import com.qualitativehealthsystems.R;
 
 import java.util.ArrayList;
 

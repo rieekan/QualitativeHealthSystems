@@ -1,4 +1,4 @@
-package com.paynesoftware.qualitativehealthsystems;
+package com.qualitativehealthsystems.activities;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -28,7 +28,11 @@ import android.widget.Toast;
 import com.activeandroid.ActiveAndroid;
 
 import com.google.gson.Gson;
+import com.qualitativehealthsystems.R;
+import com.qualitativehealthsystems.adapters.ListViewAdapter;
+import com.qualitativehealthsystems.helpers.JSONfunctions;
 import com.qualitativehealthsystems.helpers.QHSRestClient;
+import com.qualitativehealthsystems.listeners.CustomOnItemSelectedListener;
 import com.qualitativehealthsystems.models.Poll;
 import com.qualitativehealthsystems.models.responses.PollResponse;
 import com.qualitativehealthsystems.services.MessengerService;

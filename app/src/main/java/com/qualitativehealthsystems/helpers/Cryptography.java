@@ -1,4 +1,4 @@
-package com.paynesoftware.qualitativehealthsystems;
+package com.qualitativehealthsystems.helpers;
 
 import java.security.InvalidKeyException;
 import java.security.KeyPair;

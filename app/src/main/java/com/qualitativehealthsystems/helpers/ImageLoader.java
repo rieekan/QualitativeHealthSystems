@@ -1,10 +1,12 @@
-package com.paynesoftware.qualitativehealthsystems;
+package com.qualitativehealthsystems.helpers;
 
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Handler;
 import android.widget.ImageView;
+
+import com.qualitativehealthsystems.R;
 
 import java.io.File;
 import java.io.FileInputStream;

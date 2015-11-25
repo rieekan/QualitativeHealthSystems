@@ -1,4 +1,4 @@
-package com.paynesoftware.qualitativehealthsystems;
+package com.qualitativehealthsystems.helpers;
 
 import android.net.Credentials;
 import android.util.Log;

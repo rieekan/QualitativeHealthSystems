@@ -1,7 +1,6 @@
-package com.paynesoftware.qualitativehealthsystems;
+package com.qualitativehealthsystems.activities;
 
 import android.app.ProgressDialog;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -15,14 +14,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.gson.Gson;
+import com.qualitativehealthsystems.R;
 import com.qualitativehealthsystems.helpers.QHSRestClient;
-import com.qualitativehealthsystems.helpers.WeatherRestClient;
 import com.qualitativehealthsystems.models.requests.AuthenticationRequest;
 import com.qualitativehealthsystems.models.responses.AuthenticationResponse;
-import com.qualitativehealthsystems.models.responses.WeatherResponse;
-
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

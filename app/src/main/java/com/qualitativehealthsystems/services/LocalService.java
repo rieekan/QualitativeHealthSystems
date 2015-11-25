@@ -10,8 +10,8 @@ import android.os.IBinder;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.paynesoftware.qualitativehealthsystems.MainActivity;
-import com.paynesoftware.qualitativehealthsystems.R;
+import com.qualitativehealthsystems.activities.MainActivity;
+import com.qualitativehealthsystems.R;
 
 public class LocalService extends Service {
     // This is the object that receives interactions from clients.  See
