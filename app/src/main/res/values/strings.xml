@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Qualitative Health Systems</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="local_service_label">QHS</string>
+    <string name="local_service_started">QHS Started</string>
+    <string name="local_service_stopped">QHS Stopped</string>
+
+    <string name="local_service_connected">QHS Connected</string>
+    <string name="local_service_disconnected">QHS Disconnected</string>
+
+
+    <string name="remote_service_connected">QHS Service Connected</string>
+    <string name="remote_service_disconnected">QHS Service Disconnected</string>
+
+    <string name="remote_service_started">QHS Service Started</string>
+    <string name="remote_service_stopped">QHS Service Stopped</string>
+
+    <string name="select">What is your mood?</string>
+
+    <string-array name="mood_array">
+        <item>alert</item>
+        <item>excited</item>
+        <item>elated</item>
+
+        <item>happy</item>
+        <item>contented</item>
+        <item>serene</item>
+        <item>relaxed</item>
+        <item>calm</item>
+
+        <item>Tense</item>
+        <item>Nervous</item>
+        <item>Stressed</item>
+        <item>Upset</item>
+
+        <item>Sad</item>
+        <item>Depressed</item>
+        <item>Bored</item>
+        <item>Fatigued</item>
+    </string-array>
+    <string name="title_activity_bitmap_decode">BitmapDecode</string>
+
+</resources>
